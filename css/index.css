@@ -425,7 +425,7 @@ a{
 	}
 
 	.banner:nth-child(1)>img{
-		width: 1282px;
+		width:100%;
 		top: -65px;
 	}
 	.banner:nth-child(2)>img{
