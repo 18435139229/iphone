@@ -176,8 +176,8 @@ a{
 		top: 122px;
 	}
 	.banner:nth-child(4)>img{
-		min-width: 818px;
-		/*max-width: 100%;*/
+		/*min-width: 818px;*/
+		max-width: 100%;
 		transform:translateX(-62%) translateY(-10%);
 	}
 	.banner:nth-child(2)>.banner-p{
@@ -234,12 +234,6 @@ a{
 	left: auto;
 	right: 35px;
 }
-
-
-
-
-
-
 
 .smallban:after{
 	content: "";
@@ -438,7 +432,7 @@ a{
 		top: 257px;
 	}
 	.banner:nth-child(4)>img{
-		/*min-width: 1011px;*/
+		min-width: 1011px;
 		max-width: 100%;
 		transform:translateX(-50%) translateY(0);
 	}
