@@ -176,7 +176,7 @@ a{
 		top: 122px;
 	}
 	.banner:nth-child(4)>img{
-		/*min-width: 818px;*/
+		min-width: 818px;
 		max-width: 100%;
 		transform:translateX(-62%) translateY(-10%);
 	}
